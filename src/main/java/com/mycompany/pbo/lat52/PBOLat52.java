@@ -7,6 +7,10 @@ import java.util.Scanner;
 /**
  *
  * @author lenovo
+ *Nama :Elsa Febaian
+ *NIM : 22205010
+ *Prodi : Teknik Informatika
+ *Semester : 3
  */
 
 
